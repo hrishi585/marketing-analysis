@@ -1,10 +1,10 @@
-#BANK MARKETING ANALYSIS <br>
+# BANK MARKETING ANALYSIS <br>
 Contact: hrishi585
 Status: In Progress
 
-##Project Description: 
+## Project Description: 
 Many banks have trouble getting new customers to sign up for their schemes or policies. This is an attempt to find what actions can provide better chances of capturing customers and retaining them.
-##Solution:		
+## Solution:		
 ```
 Data analysis on past strategies and interactions with customers.
 Evaluate campaign effectiveness in insurance.
